@@ -24,8 +24,3 @@ Website ini dibuat sebagai bagian dari proyek pembelajaran.
 - TailwindCSS
 - VS Code
 - Netlify (hosting)
-
----
-
-## 📁 Struktur Direkomendasikan
-
